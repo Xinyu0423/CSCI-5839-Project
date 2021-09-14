@@ -13,6 +13,6 @@ The project will caculate the calories calculate the calories people taken based
    
 ## Project Deliverables
 1. Project Website
-   1. Link:
+   1. Link: https://xinyu0423.github.io/CSCI-5839-Project/
 2. Project Pitch
    1. Link:
