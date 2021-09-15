@@ -14,4 +14,4 @@ The project will caculate the calories people taken based on what they eay every
 1. Project Website
    1. Link: https://xinyu0423.github.io/CSCI-5839-Project/
 2. Project Pitch
-   1. Link:
+   1. Link: https://drive.google.com/file/d/1FZmWRmcC7u7FZLy4pZ27PSX7W-ro33Mt/view?usp=sharing
