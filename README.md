@@ -3,8 +3,11 @@
 ## Project Name
 Daily Calories Calculator 
 
-## Brief Description of the Porject
-The project will caculate the calories people taken based on what they eay every day. And tell them if they need to take more/less calories.
+## Project Intention
+Diet is a basic component in people’s daily life. To have a healthy body, it is not enough to just eat a full meal. People also need to consider the reasonable allocation of diet to ensure the intake of various nutrients satisfies daily calories needs. In addition to that, the composition of a healthy diet varies with personal circumstances (such as age, gender, lifestyle, and physical activity level, etc.). Therefore, the project aims to record users' daily diet and give recommendations based on caloric intake.
+
+## Brief Description of the Project
+The project will caculate the calories people taken based on what they eay every day. And recommend users if they need to take more/less calories.
 
 ## List of team members
 1. Xinyu Jiang
